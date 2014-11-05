@@ -95,3 +95,7 @@ mod "base",
 mod "jbossas",
   :git => "git://github.com/open-dai/puppet-opendai-jbossas.git",
   :ref => 'master'
+
+mod "cloudstack_resources",
+  :git => "git://github.com/bodepd/cloudstack_resources.git",
+  :ref => 'master'
